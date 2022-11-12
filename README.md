@@ -5,7 +5,7 @@
 - 👀 Next to GitHub, I also have a couple of projects using Azure DevOps
 
 - 🌱 Momenteel leer ik GitHub optimaal te gebruiken
-- 🌱 Currently, I'm learing to get to the most out of GitHub
+- 🌱 Currently, I'm learning to get the most out of GitHub
         
 - 💞️ Code Katas
 - 💞️ I love doing some coding katas in the morning
