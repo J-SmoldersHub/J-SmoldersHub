@@ -1,14 +1,9 @@
 - 👋 Welkom op mijn GitHub pagina
-- 👋 Welcome to my GitHub page
-        
-- 👀 Naast GitHub heb ik ook een aantal projecten staan in Azure DevOps
-- 👀 Next to GitHub, I also have a couple of projects using Azure DevOps
+Momenteel werkzaam als Software Developer Prolog
 
-- 🌱 Momenteel leer ik GitHub optimaal te gebruiken
-- 🌱 Currently, I'm learning to get the most out of GitHub
+- 🌱 GitHub heb ik naast al het werken, nog geen liefde gegeven.
+Daar hoop ik vanaf nu verandering in te gaan brengen.
+
+- 👀 Ik heb wel een aantal projecten staan in Azure DevOps
         
 - 💞️ Code Katas
-- 💞️ I love doing some coding katas in the morning
-        
-- 📫 Op aanvraag
-- 📫 You may ask for my contact details
